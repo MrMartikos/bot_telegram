@@ -1,0 +1,15 @@
+{
+  "name": "bot_telegram",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
